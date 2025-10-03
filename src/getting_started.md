@@ -34,9 +34,9 @@ I highly recommend starting from scratch at first to try things. When you get so
 
 > Don't use Typst LSP, that's a very outdated thing.
 
-Tinymist is a community-developed LSP [^1] that probably has even more features than Web App (well, that may change in some time, and I'm not known for keeping this book very up-to-date). These include things like going-to-defenition, refactoring, formatting,, opening packages the errors are comming from and many-many others. It's not "official", but it doesn't make it any worse. It is definitely worth trying.
+Tinymist is a community-developed LSP [^1] that probably has even more features than Web App (well, that may change in some time, and I'm not known for keeping this book very up-to-date). These include things like going-to-definition, refactoring, formatting, directly opening packages that are producing errors and many-many others. It's not "official", but that doesn't make it any worse. It is definitely worth trying.
 
-Works with pretty much any editor supporting LSP. For VS Cod(e,ium), Neovim, Emacs, Sublime Text, Helix and Zed there are also useful frontends available.
+Tinymist works with pretty much any editor that supports LSP. For VS Cod(e,ium), Neovim, Emacs, Sublime Text, Helix and Zed there are also useful frontends available.
 
 So, to use Typst locally, it's probably enough to open your favourite editor, install Tinymist extension and get a full Typst experience with live preview and many other nice things.
 
